@@ -1,0 +1,10 @@
+# Run ZSH startup script
+command = ~/.config/zsh/scripts/startup
+
+keybind = global:super+grave_accent=toggle_quick_terminal
+
+# theme = Atom
+font-size = 14
+font-family = "JetBrainsMono Nerd Font"
+font-family-bold = "JetBrainsMono Nerd Font Bold"
+font-family-italic = "JetBrainsMono Nerd Font Italic"
